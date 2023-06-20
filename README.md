@@ -4,6 +4,8 @@
 
 A useful Python program to determine whether a password you are going to create is valid or not.
 
+## Useful Information
+
 Conditions needed for password to be valid:
 
 1. A minimum of 8 characters.
